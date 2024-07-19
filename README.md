@@ -1,2 +1,2 @@
-# LinkedList
-LinkedList concept understanding using Python GUI
+# Data Structure
+Data Structure understanding using Python GUI
