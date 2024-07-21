@@ -1,2 +1,2 @@
 # Data Structure
-Data Structure understanding using Python GUI
+Data Structure  concept understanding using Python GUI
